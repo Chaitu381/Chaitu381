@@ -193,7 +193,7 @@ const Contact = () => {
               </motion.button>
 
               <motion.a
-                href="https://drive.google.com/file/d/1cyhF2golaOWp8anN3QmT-zMX_4hleUlP/view"
+                href="https://drive.google.com/file/d/18qaFyxsa5r9cdflLc1GcfNyofJ4M7NfF/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.03, y: -3 }}

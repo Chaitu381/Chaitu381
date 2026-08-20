@@ -193,7 +193,7 @@ const Contact = () => {
               </motion.button>
 
               <motion.a
-                href="https://drive.google.com/file/d/18qaFyxsa5r9cdflLc1GcfNyofJ4M7NfF/view?usp=sharing"
+                href="https://drive.google.com/file/d/1EQ0OaPbhfaLs_BFioC4u4qSW7ps_UsuT/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.03, y: -3 }}
@@ -201,7 +201,7 @@ const Contact = () => {
                 className="inline-flex items-center justify-center gap-2 rounded-2xl border border-white/10 bg-white/[0.06] px-6 py-3.5 text-sm font-semibold text-white transition-all duration-300 hover:border-blue-400/50 hover:bg-blue-500/10 hover:shadow-[0_15px_45px_rgba(59,130,246,0.14)]"
               >
                 <Download className="h-4 w-4" />
-                Download Resume
+                View Resume
               </motion.a>
             </div>
           </motion.form>

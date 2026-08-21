@@ -18,46 +18,27 @@
 
 <br/>
 
+<div align="center">
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=920&height=45&lines=Building+production-oriented+backend+and+full-stack+systems.;Java+%E2%86%92+Spring+Boot+%E2%86%92+Security+%E2%86%92+REST+APIs.;React+%E2%86%92+TypeScript+%E2%86%92+Integrated+Product+Experiences.;Python+%E2%86%92+FastAPI+%E2%86%92+IoT+%E2%86%92+Automation.;Architecture.+Security.+Reliability.+Maintainability."
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,35:0F172A,70:0369A1,100:38BDF8&text=Chaitanya%20Pilla&fontColor=F8FAFC&fontSize=42&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20Java%20Backend%20%E2%80%A2%20Full-Stack%20Engineering&descAlignY=52&descSize=16&animation=fadeIn"
+  width="100%"
+  alt="Chaitanya Pilla"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&height=32&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Python;Backend+Engineering+%E2%80%A2+REST+APIs+%E2%80%A2+Security+%E2%80%A2+System+Design;Building+production-ready+software."
   alt="Engineering Focus"
 />
 
 <br/>
 
-<a href="https://portfolio.fengari.me">
-<img
-  src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=020617"
-  alt="Portfolio"
-/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Chaitu381?tab=repositories">
-<img
-  src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=38BDF8"
-  alt="Projects"
-/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-&nbsp;
-
-<a href="mailto:chaitu38192021@gmail.com">
-<img
-  src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8"
-  alt="Email"
-/>
-</a>
+<p align="center">
+<a href="https://portfolio.fengari.me"><img src="https://img.shields.io/badge/PORTFOLIO-0284C7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Chaitu381?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="Projects"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:chaitu38192021@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
+</p>
 
 </div>
 

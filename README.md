@@ -44,38 +44,6 @@
      QUICK INTRODUCTION
 ============================================================ -->
 
-# `> whoami`
-
-```yaml
-name: Chaitanya Pilla
-
-role:
-  - Software Developer
-  - Java Backend Developer
-  - Full-Stack Developer
-
-core:
-  backend: Java + Spring Boot
-  frontend: React + TypeScript
-  databases: MySQL + PostgreSQL
-  additional: Python + FastAPI
-
-focus:
-  - Backend Architecture
-  - REST API Design
-  - Authentication & Authorization
-  - Database Design
-  - Full-Stack Integration
-  - Production Engineering
-```
-
-I build applications beyond basic CRUD.
-
-I care about the parts that determine whether software actually survives in production:
-
-**architecture, security, API contracts, database design, permissions, error handling, scalability, testing, deployment and maintainability.**
-
-<br/>
 
 <div align="center">
 

@@ -10,12 +10,6 @@
      HERO
 ============================================================ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:0369A1,100:38BDF8&text=Chaitanya%20Pilla&fontColor=F8FAFC&fontSize=52&fontAlignY=37&desc=Software%20Developer%20%E2%80%A2%20Java%20Backend%20%E2%80%A2%20Full-Stack%20Engineering&descAlignY=57&descSize=18&animation=fadeIn"
-  width="100%"
-  alt="Chaitanya Pilla"
-/>
-
 <br/>
 
 <div align="center">

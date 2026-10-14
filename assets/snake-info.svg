@@ -1,0 +1,11 @@
+<svg width="1400" height="180" viewBox="0 0 1400 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="180"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0A1624"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1400" y2="0"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+</defs>
+<rect width="1400" height="180" rx="22" fill="url(#bg)" stroke="#1D334B"/>
+<text x="700" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Arial" font-size="30" font-weight="800">Contribution Snake Ready</text>
+<text x="700" y="98" text-anchor="middle" fill="#CBD5E1" font-family="Arial" font-size="18">Run the “Generate contribution snake” GitHub Action once after pushing this README.</text>
+<line x1="250" y1="122" x2="1150" y2="122" stroke="url(#g)" stroke-width="2"/>
+<text x="700" y="150" text-anchor="middle" fill="#38BDF8" font-family="Arial" font-size="17" font-weight="700">GitHub → Chaitu381/Chaitu381 → Actions → Generate contribution snake → Run workflow</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="360" height="92" viewBox="0 0 360 92" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="360" y2="92">
+    <stop stop-color="#0A66C2"/>
+    <stop offset="1" stop-color="#2563EB"/>
+  </linearGradient>
+</defs>
+<rect width="360" height="92" rx="18" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="357" height="89" rx="16.5" fill="none" stroke="#E2E8F0" stroke-opacity="0.16"/>
+<circle cx="42" cy="46" r="18" fill="#FFFFFF" fill-opacity="0.16"/>
+<text x="42" y="52" text-anchor="middle" fill="#F8FAFC" font-family="Arial" font-size="20" font-weight="800">L</text>
+<text x="74" y="40" fill="#F8FAFC" font-family="Arial" font-size="19" font-weight="800">LinkedIn</text>
+<text x="74" y="63" fill="#E2E8F0" font-family="Arial" font-size="13" font-weight="700">connect professionally</text>
+</svg>

@@ -8,11 +8,11 @@
 <text x="48" y="88" fill="#94A3B8" font-family="Arial" font-size="17">From business problem to production — not just code, but the complete system.</text>
 <line x1="140" y1="175" x2="1260" y2="175" stroke="url(#g)" stroke-width="4"/>
 <g font-family="Arial" text-anchor="middle">
-<g transform="translate(140 175)"><circle r="38" fill="#0B1B2F" stroke="#22D3EE" stroke-width="3"/><text y="7" font-size="17" fill="#F8FAFC" font-weight="800">1</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Understand</text></g>
-<g transform="translate(365 175)"><circle r="38" fill="#0B1B2F" stroke="#60A5FA" stroke-width="3"/><text y="7" font-size="17" fill="#F8FAFC" font-weight="800">2</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Architect</text></g>
-<g transform="translate(590 175)"><circle r="38" fill="#0B1B2F" stroke="#8B5CF6" stroke-width="3"/><text y="7" font-size="17" fill="#F8FAFC" font-weight="800">3</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Secure</text></g>
-<g transform="translate(815 175)"><circle r="38" fill="#0B1B2F" stroke="#A78BFA" stroke-width="3"/><text y="7" font-size="17" fill="#F8FAFC" font-weight="800">4</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Build</text></g>
-<g transform="translate(1040 175)"><circle r="38" fill="#0B1B2F" stroke="#EC4899" stroke-width="3"/><text y="7" font-size="17" fill="#F8FAFC" font-weight="800">5</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Validate</text></g>
-<g transform="translate(1260 175)"><circle r="38" fill="#0B1B2F" stroke="#F472B6" stroke-width="3"/><text y="7" font-size="17" fill="#F8FAFC" font-weight="800">6</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Ship</text></g>
+<g transform="translate(140 175)"><circle r="38" fill="#0B1B2F" stroke="#22D3EE" stroke-width="3"/><text y="7" fill="#F8FAFC" font-size="17" font-weight="800">1</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Understand</text></g>
+<g transform="translate(365 175)"><circle r="38" fill="#0B1B2F" stroke="#60A5FA" stroke-width="3"/><text y="7" fill="#F8FAFC" font-size="17" font-weight="800">2</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Architect</text></g>
+<g transform="translate(590 175)"><circle r="38" fill="#0B1B2F" stroke="#8B5CF6" stroke-width="3"/><text y="7" fill="#F8FAFC" font-size="17" font-weight="800">3</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Secure</text></g>
+<g transform="translate(815 175)"><circle r="38" fill="#0B1B2F" stroke="#A78BFA" stroke-width="3"/><text y="7" fill="#F8FAFC" font-size="17" font-weight="800">4</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Build</text></g>
+<g transform="translate(1040 175)"><circle r="38" fill="#0B1B2F" stroke="#EC4899" stroke-width="3"/><text y="7" fill="#F8FAFC" font-size="17" font-weight="800">5</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Validate</text></g>
+<g transform="translate(1260 175)"><circle r="38" fill="#0B1B2F" stroke="#F472B6" stroke-width="3"/><text y="7" fill="#F8FAFC" font-size="17" font-weight="800">6</text><text y="72" fill="#F8FAFC" font-size="17" font-weight="700">Ship</text></g>
 </g>
 </svg>

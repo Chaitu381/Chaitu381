@@ -7,5 +7,5 @@
 <text x="700" y="70" fill="#F8FAFC" font-family="Arial" font-size="34" text-anchor="middle" font-weight="800">Let's build something worth shipping.</text>
 <text x="700" y="106" fill="#94A3B8" font-family="Arial" font-size="19" text-anchor="middle">Portfolio • GitHub • LinkedIn • Email</text>
 <line x1="250" y1="136" x2="1150" y2="136" stroke="url(#g)" stroke-width="2"/>
-<text x="700" y="185" fill="#38BDF8" font-family="Arial" font-size="21" text-anchor="middle" font-weight="700">Design the system. Secure it. Build it. Ship it.</text>
+<text x="700" y="184" fill="#38BDF8" font-family="Arial" font-size="21" text-anchor="middle" font-weight="700">Design the system. Secure it. Build it. Ship it.</text>
 </svg>

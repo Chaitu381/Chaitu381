@@ -8,16 +8,26 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&height=44&lines=Java+Full+Stack+Developer+%7C+IoT+Developer;Spring+Boot+%7C+React+%2B+TypeScript+%7C+FastAPI;Backend+Systems+%7C+Security+%7C+Databases+%7C+APIs;Building+production-ready+products%2C+not+toy+demos" alt="Typing animation"/>
 
-<br/><br/>
+</div>
 
-<a href="https://portfolio.fengari.me"><img src="./assets/btn-portfolio.svg" height="58" alt="Portfolio"/></a>&nbsp;
-<a href="https://github.com/Chaitu381"><img src="./assets/btn-github.svg" height="58" alt="GitHub"/></a>&nbsp;
-<a href="https://github.com/Chaitu381?tab=repositories"><img src="./assets/btn-repositories.svg" height="58" alt="Repositories"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="./assets/btn-linkedin.svg" height="58" alt="LinkedIn"/></a>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<a href="mailto:chaitu38192021@gmail.com"><img src="./assets/btn-email.svg" height="58" alt="Email"/></a>
+<table>
+  <tr>
+    <td><a href="https://portfolio.fengari.me"><img src="./assets/cta-portfolio.svg" width="320" alt="Portfolio"/></a></td>
+    <td><a href="https://github.com/Chaitu381"><img src="./assets/cta-github.svg" width="320" alt="GitHub"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Chaitu381?tab=repositories"><img src="./assets/cta-repositories.svg" width="320" alt="Repositories"/></a></td>
+    <td><a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="./assets/cta-linkedin.svg" width="320" alt="LinkedIn"/></a></td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="mailto:chaitu38192021@gmail.com"><img src="./assets/cta-email.svg" width="360" alt="Email"/></a>
 
 </div>
 
@@ -53,8 +63,9 @@
 
 <div align="center">
 <br/>
-<a href="https://portfolio.fengari.me"><img src="./assets/btn-portfolio.svg" height="54" alt="Open portfolio"/></a>&nbsp;
-<a href="https://github.com/Chaitu381?tab=repositories"><img src="./assets/btn-repositories.svg" height="54" alt="Browse repositories"/></a>
+<a href="https://portfolio.fengari.me"><img src="./assets/cta-portfolio.svg" width="300" alt="Open portfolio"/></a>
+&nbsp;
+<a href="https://github.com/Chaitu381?tab=repositories"><img src="./assets/cta-repositories.svg" width="300" alt="Browse repositories"/></a>
 </div>
 
 <br/>
@@ -76,8 +87,6 @@
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitu381&theme=github_dark" alt="Profile details"/>
-<br/><br/>
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitu381&theme=github_dark" alt="Repos per language"/>
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitu381&theme=github_dark" alt="Most commit language"/>
 
@@ -89,9 +98,7 @@
 
 <div align="center">
 
-> After pushing this README, run the GitHub Action once to generate the live snake animation.
-
-<img width="100%" src="https://raw.githubusercontent.com/Chaitu381/Chaitu381/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="./assets/snake-info.svg" width="100%" alt="Contribution snake setup instructions"/>
 
 </div>
 
@@ -117,12 +124,18 @@
 
 <div align="center">
 
-<a href="https://portfolio.fengari.me"><img src="./assets/btn-portfolio.svg" height="58" alt="Portfolio"/></a>&nbsp;
-<a href="https://github.com/Chaitu381"><img src="./assets/btn-github.svg" height="58" alt="GitHub"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="./assets/btn-linkedin.svg" height="58" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:chaitu38192021@gmail.com"><img src="./assets/btn-email.svg" height="58" alt="Email"/></a>
+<table>
+  <tr>
+    <td><a href="https://portfolio.fengari.me"><img src="./assets/cta-portfolio.svg" width="280" alt="Portfolio"/></a></td>
+    <td><a href="https://github.com/Chaitu381"><img src="./assets/cta-github.svg" width="280" alt="GitHub"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="./assets/cta-linkedin.svg" width="280" alt="LinkedIn"/></a></td>
+    <td><a href="mailto:chaitu38192021@gmail.com"><img src="./assets/cta-email.svg" width="280" alt="Email"/></a></td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="./assets/footer.svg" width="100%" alt="Connect with Chaitu"/>
 

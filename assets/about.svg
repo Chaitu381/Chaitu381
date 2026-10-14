@@ -1,0 +1,16 @@
+<svg width="1400" height="330" viewBox="0 0 1400 330" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1400" y2="330"><stop stop-color="#07111F"/><stop offset="1" stop-color="#081827"/></linearGradient><linearGradient id="ln" x1="0" y1="0" x2="1400" y2="0"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient></defs>
+<rect width="1400" height="330" rx="24" fill="url(#bg)" stroke="#1D334B"/>
+<text x="48" y="58" fill="#F8FAFC" font-family="Arial" font-size="30" font-weight="800">👨‍💻 About Me</text><line x1="48" y1="77" x2="1352" y2="77" stroke="url(#ln)" stroke-width="2"/>
+<text x="48" y="122" fill="#CBD5E1" font-family="Arial" font-size="21">I'm Pilla Chaitanya (Chaitu) — focused on backend engineering, full-stack products and IoT-connected systems.</text>
+<text x="48" y="156" fill="#CBD5E1" font-family="Arial" font-size="21">I care about secure APIs, clean architecture, reliable integrations, database design and production-ready delivery.</text>
+<g font-family="Arial" font-size="18">
+<rect x="48" y="196" width="205" height="58" rx="16" fill="#0B1B2F" stroke="#22D3EE"/><text x="70" y="222" fill="#38BDF8" font-weight="700">BACKEND</text><text x="70" y="244" fill="#CBD5E1">Java • Spring Boot</text>
+<rect x="270" y="196" width="205" height="58" rx="16" fill="#0B1B2F" stroke="#A78BFA"/><text x="292" y="222" fill="#A78BFA" font-weight="700">FRONTEND</text><text x="292" y="244" fill="#CBD5E1">React • TypeScript</text>
+<rect x="492" y="196" width="205" height="58" rx="16" fill="#0B1B2F" stroke="#22C55E"/><text x="514" y="222" fill="#4ADE80" font-weight="700">DATA</text><text x="514" y="244" fill="#CBD5E1">MySQL • PostgreSQL</text>
+<rect x="714" y="196" width="205" height="58" rx="16" fill="#0B1B2F" stroke="#F59E0B"/><text x="736" y="222" fill="#FBBF24" font-weight="700">SECURITY</text><text x="736" y="244" fill="#CBD5E1">JWT • RBAC • Auth</text>
+<rect x="936" y="196" width="205" height="58" rx="16" fill="#0B1B2F" stroke="#06B6D4"/><text x="958" y="222" fill="#22D3EE" font-weight="700">IoT</text><text x="958" y="244" fill="#CBD5E1">Pi • ESP32 • MQTT</text>
+<rect x="1158" y="196" width="194" height="58" rx="16" fill="#0B1B2F" stroke="#EC4899"/><text x="1180" y="222" fill="#F472B6" font-weight="700">PRODUCTION</text><text x="1180" y="244" fill="#CBD5E1">Docker • CI/CD</text>
+</g>
+<text x="48" y="296" fill="#94A3B8" font-family="Arial" font-size="18">Backend-heavy full-stack engineering + connected product development.</text>
+</svg>

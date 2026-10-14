@@ -1,0 +1,14 @@
+<svg width="340" height="64" viewBox="0 0 340 64" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="340" y2="64">
+    <stop stop-color="#EC4899"/>
+    <stop offset="1" stop-color="#BE185D"/>
+  </linearGradient>
+</defs>
+<rect width="340" height="64" rx="16" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="337" height="61" rx="14.5" fill="none" stroke="#93C5FD" stroke-opacity=".28"/>
+<circle cx="32" cy="32" r="16" fill="#FFFFFF" fill-opacity=".16"/>
+<text x="32" y="38" text-anchor="middle" fill="#F8FAFC" font-family="Arial" font-size="18" font-weight="800">E</text>
+<text x="58" y="28" fill="#F8FAFC" font-family="Arial" font-size="18" font-weight="800">Email</text>
+<text x="58" y="45" fill="#E2E8F0" fill-opacity=".92" font-family="Arial" font-size="11" font-weight="700">chaitu38192021@gmail.com</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="1400" height="220" viewBox="0 0 1400 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="220"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0A1624"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1400" y2="0"><stop stop-color="#22D3EE"/><stop offset=".45" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+</defs>
+<rect width="1400" height="220" rx="24" fill="url(#bg)" stroke="#1D334B"/>
+<text x="700" y="70" fill="#F8FAFC" font-family="Arial" font-size="34" text-anchor="middle" font-weight="800">Let's build something worth shipping.</text>
+<text x="700" y="106" fill="#94A3B8" font-family="Arial" font-size="19" text-anchor="middle">Portfolio • GitHub • LinkedIn • Email</text>
+<line x1="250" y1="136" x2="1150" y2="136" stroke="url(#g)" stroke-width="2"/>
+<text x="700" y="185" fill="#38BDF8" font-family="Arial" font-size="21" text-anchor="middle" font-weight="700">Design the system. Secure it. Build it. Ship it.</text>
+</svg>

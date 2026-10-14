@@ -8,13 +8,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&height=44&lines=Java+Full+Stack+Developer+%7C+IoT+Developer;Spring+Boot+%7C+React+%2B+TypeScript+%7C+FastAPI;Backend+Systems+%7C+Security+%7C+Databases+%7C+APIs;Building+production-ready+products%2C+not+toy+demos" alt="Typing animation"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://portfolio.fengari.me"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Chaitu381"><img src="https://img.shields.io/badge/GITHUB-Chaitu381-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Chaitu381?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="https://img.shields.io/badge/LINKEDIN-Chaitanya_Pilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chaitu38192021@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's_Talk-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio.fengari.me"><img src="./assets/btn-portfolio.svg" height="58" alt="Portfolio"/></a>&nbsp;
+<a href="https://github.com/Chaitu381"><img src="./assets/btn-github.svg" height="58" alt="GitHub"/></a>&nbsp;
+<a href="https://github.com/Chaitu381?tab=repositories"><img src="./assets/btn-repositories.svg" height="58" alt="Repositories"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="./assets/btn-linkedin.svg" height="58" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<a href="mailto:chaitu38192021@gmail.com"><img src="./assets/btn-email.svg" height="58" alt="Email"/></a>
 
 </div>
 
@@ -24,7 +27,7 @@
 
 <br/>
 
-## ⚡ Engineering Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,18 +53,17 @@
 
 <div align="center">
 <br/>
-<a href="https://portfolio.fengari.me"><img src="https://img.shields.io/badge/EXPLORE_FULL_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/Chaitu381?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://portfolio.fengari.me"><img src="./assets/btn-portfolio.svg" height="54" alt="Open portfolio"/></a>&nbsp;
+<a href="https://github.com/Chaitu381?tab=repositories"><img src="./assets/btn-repositories.svg" height="54" alt="Browse repositories"/></a>
 </div>
 
 <br/>
 
-<img src="./assets/journey.svg" width="100%" alt="How I build software"/>
+<img src="./assets/process.svg" width="100%" alt="How I build software"/>
 
 <br/>
 
-## 📊 GitHub Activity
+## GitHub Snapshot
 
 <div align="center">
 
@@ -74,39 +76,40 @@
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitu381&bg_color=07111F&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="Contribution graph"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitu381&theme=github_dark" alt="Profile details"/>
+<br/><br/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitu381&theme=github_dark" alt="Repos per language"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitu381&theme=github_dark" alt="Most commit language"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Animation
+## Contribution Animation
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitu381/Chaitu381/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaitu381/Chaitu381/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Chaitu381/Chaitu381/output/github-contribution-grid-snake.svg">
-</picture>
+> After pushing this README, run the GitHub Action once to generate the live snake animation.
+
+<img width="100%" src="https://raw.githubusercontent.com/Chaitu381/Chaitu381/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 <br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
 | Engineering Area | What I'm working on |
 |---|---|
-| ☕ **Java Backend** | Spring Boot, Spring Security, REST APIs, service design |
-| ⚛️ **Full Stack** | React, TypeScript, API integration, production UI |
-| 🔐 **Application Security** | Authentication, JWT, RBAC, permissions |
-| 🗄️ **Data** | MySQL, PostgreSQL, schema design, migrations |
-| 🏗️ **Architecture** | Modular systems, service boundaries, scalability |
-| 📡 **IoT** | Raspberry Pi, ESP32, MQTT, connected systems |
-| 🚀 **Production** | Docker, Linux, CI/CD, deployment, reliability |
+| **Java Backend** | Spring Boot, Spring Security, REST APIs, service design |
+| **Full Stack** | React, TypeScript, API integration, production UI |
+| **Application Security** | Authentication, JWT, RBAC, permissions |
+| **Data** | MySQL, PostgreSQL, schema design, migrations |
+| **Architecture** | Modular systems, service boundaries, scalability |
+| **IoT** | Raspberry Pi, ESP32, MQTT, connected systems |
+| **Production** | Docker, Linux, CI/CD, deployment, reliability |
 
 </div>
 
@@ -114,13 +117,13 @@
 
 <div align="center">
 
-<a href="https://portfolio.fengari.me"><img src="https://img.shields.io/badge/PORTFOLIO-portfolio.fengari.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Chaitu381"><img src="https://img.shields.io/badge/GITHUB-Chaitu381-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chaitu38192021@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio.fengari.me"><img src="./assets/btn-portfolio.svg" height="58" alt="Portfolio"/></a>&nbsp;
+<a href="https://github.com/Chaitu381"><img src="./assets/btn-github.svg" height="58" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/chaitanya-pilla-701731221/"><img src="./assets/btn-linkedin.svg" height="58" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:chaitu38192021@gmail.com"><img src="./assets/btn-email.svg" height="58" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="./assets/connect.svg" width="100%" alt="Connect with Chaitu"/>
+<img src="./assets/footer.svg" width="100%" alt="Connect with Chaitu"/>
 
 </div>

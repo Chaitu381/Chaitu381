@@ -1,29 +1,44 @@
 <svg width="1400" height="430" viewBox="0 0 1400 430" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="430"><stop stop-color="#050816"/><stop offset=".52" stop-color="#071426"/><stop offset="1" stop-color="#0B1120"/></linearGradient>
-<linearGradient id="g1" x1="70" y1="50" x2="720" y2="340"><stop stop-color="#22D3EE"/><stop offset=".45" stop-color="#60A5FA"/><stop offset=".72" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
-<radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1120 190) rotate(90) scale(230 310)"><stop stop-color="#2563EB" stop-opacity=".28"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="430">
+  <stop stop-color="#040816"/><stop offset=".5" stop-color="#071426"/><stop offset="1" stop-color="#0A1222"/>
+</linearGradient>
+<linearGradient id="name" x1="60" y1="100" x2="730" y2="210">
+  <stop stop-color="#22D3EE"/><stop offset=".45" stop-color="#60A5FA"/><stop offset=".75" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+</linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1100 190) rotate(90) scale(260 330)">
+  <stop stop-color="#2563EB" stop-opacity=".26"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
 </defs>
-<rect width="1400" height="430" rx="30" fill="url(#bg)"/>
-<ellipse cx="1120" cy="190" rx="300" ry="230" fill="url(#glow)"/>
+<rect width="1400" height="430" rx="28" fill="url(#bg)"/>
+<ellipse cx="1100" cy="190" rx="320" ry="240" fill="url(#glow)"/>
+<circle cx="1230" cy="82" r="110" fill="#8B5CF6" fill-opacity=".10"/>
+<circle cx="950" cy="350" r="100" fill="#22D3EE" fill-opacity=".08"/>
+
 <text x="72" y="92" fill="#E2E8F0" font-family="Arial" font-size="30" font-weight="700">Hi, I'm</text>
-<text x="72" y="164" fill="url(#g1)" font-family="Arial" font-size="70" font-weight="800">Pilla Chaitanya</text>
-<text x="72" y="210" fill="#38BDF8" font-family="Arial" font-size="27" font-weight="700">Java Full Stack Developer  •  IoT Developer</text>
-<text x="72" y="252" fill="#CBD5E1" font-family="Arial" font-size="22">Building scalable backend systems, modern web apps</text>
+<text x="72" y="164" fill="url(#name)" font-family="Arial" font-size="70" font-weight="800">Pilla Chaitanya</text>
+<text x="72" y="210" fill="#38BDF8" font-family="Arial" font-size="28" font-weight="700">Java Full Stack Developer  •  IoT Developer</text>
+<text x="72" y="252" fill="#CBD5E1" font-family="Arial" font-size="22">I build scalable backend systems, modern web applications</text>
 <text x="72" y="282" fill="#CBD5E1" font-family="Arial" font-size="22">and connected products that solve real-world problems.</text>
+
 <g font-family="Arial" font-size="17" font-weight="700">
-<rect x="72" y="319" width="150" height="42" rx="21" fill="#0B1B2F" stroke="#0EA5E9"/><text x="99" y="346" fill="#E2E8F0">☕ Java 17</text>
-<rect x="236" y="319" width="182" height="42" rx="21" fill="#0B1B2F" stroke="#22C55E"/><text x="261" y="346" fill="#E2E8F0">🌿 Spring Boot</text>
-<rect x="432" y="319" width="214" height="42" rx="21" fill="#0B1B2F" stroke="#22D3EE"/><text x="455" y="346" fill="#E2E8F0">⚛ React + TypeScript</text>
-<rect x="660" y="319" width="154" height="42" rx="21" fill="#0B1B2F" stroke="#A78BFA"/><text x="687" y="346" fill="#E2E8F0">📡 IoT / MQTT</text>
+  <rect x="72" y="319" width="150" height="42" rx="21" fill="#0B1B2F" stroke="#0EA5E9"/><text x="97" y="346" fill="#E2E8F0">Java 17</text>
+  <rect x="236" y="319" width="184" height="42" rx="21" fill="#0B1B2F" stroke="#22C55E"/><text x="260" y="346" fill="#E2E8F0">Spring Boot</text>
+  <rect x="434" y="319" width="214" height="42" rx="21" fill="#0B1B2F" stroke="#22D3EE"/><text x="458" y="346" fill="#E2E8F0">React + TypeScript</text>
+  <rect x="662" y="319" width="150" height="42" rx="21" fill="#0B1B2F" stroke="#A78BFA"/><text x="693" y="346" fill="#E2E8F0">IoT / MQTT</text>
 </g>
-<rect x="930" y="76" width="350" height="235" rx="24" fill="#07111F" stroke="#7C3AED" stroke-width="2"/>
-<rect x="953" y="100" width="304" height="174" rx="14" fill="#06101D" stroke="#183A59"/>
-<circle cx="978" cy="120" r="5" fill="#FF5F57"/><circle cx="996" cy="120" r="5" fill="#FEBB2E"/><circle cx="1014" cy="120" r="5" fill="#28C840"/>
+
+<rect x="930" y="72" width="356" height="240" rx="24" fill="#07111F" stroke="#7C3AED" stroke-width="2"/>
+<rect x="955" y="97" width="306" height="180" rx="14" fill="#06101D" stroke="#183A59"/>
+<circle cx="980" cy="117" r="5" fill="#FF5F57"/><circle cx="998" cy="117" r="5" fill="#FEBB2E"/><circle cx="1016" cy="117" r="5" fill="#28C840"/>
 <g font-family="monospace" font-size="15">
-<text x="975" y="154" fill="#F472B6">public class</text><text x="1090" y="154" fill="#67E8F9">Chaitu</text><text x="1143" y="154" fill="#CBD5E1">{</text>
-<text x="995" y="186" fill="#CBD5E1">build("real-world products");</text><text x="995" y="217" fill="#CBD5E1">ship("clean systems");</text><text x="995" y="248" fill="#CBD5E1">learn(); improve(); repeat();</text>
+  <text x="976" y="150" fill="#F472B6">public class</text>
+  <text x="1091" y="150" fill="#67E8F9">Chaitu</text>
+  <text x="1144" y="150" fill="#CBD5E1">{</text>
+  <text x="996" y="183" fill="#CBD5E1">build("real-world products");</text>
+  <text x="996" y="214" fill="#CBD5E1">secure("clean APIs &amp; RBAC");</text>
+  <text x="996" y="245" fill="#CBD5E1">ship("full-stack + IoT systems");</text>
 </g>
-<text x="1013" y="365" fill="#94A3B8" font-family="Arial" font-size="19">Build • Solve • Improve • Repeat</text>
-<path d="M56 395 C330 350,420 440,690 392 C950 345,1050 430,1340 382" stroke="url(#g1)" stroke-width="2.4" opacity=".75"/>
+<text x="1010" y="365" fill="#94A3B8" font-family="Arial" font-size="19">Build • Solve • Improve • Repeat</text>
+<path d="M55 394 C318 350,420 438,690 392 C955 347,1060 428,1342 382" stroke="url(#name)" stroke-width="2.4" opacity=".8"/>
 </svg>

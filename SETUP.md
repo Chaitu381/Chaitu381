@@ -1,8 +1,13 @@
-# Install this GitHub Profile README
+# Updated GitHub Profile README
 
-Copy these files into your `Chaitu381/Chaitu381` repository root.
+This version fixes the problems from the previous ZIP:
 
-Structure:
+- custom local SVG buttons instead of plain-looking badge rows
+- fixed broken custom image rendering in the featured-projects section
+- replaced the broken contribution graph with more reliable profile summary cards
+- kept the snake workflow, but it needs one Actions run before the image appears
+
+## Files
 
 ```text
 README.md
@@ -10,23 +15,33 @@ assets/
   hero.svg
   about.svg
   projects.svg
-  journey.svg
-  connect.svg
+  process.svg
+  footer.svg
+  btn-portfolio.svg
+  btn-github.svg
+  btn-repositories.svg
+  btn-linkedin.svg
+  btn-email.svg
 .github/
   workflows/
     snake.yml
 ```
 
-Then run:
+## Install
+
+Extract and replace your old profile files in `D:\Chaitu381`, then run:
 
 ```powershell
 cd D:\Chaitu381
 git add .
-git commit -m "Redesign GitHub profile"
+git commit -m "Fix GitHub profile visuals and broken images"
 git push origin main
 ```
 
-After pushing, run the contribution snake once from:
-GitHub → Actions → Generate contribution snake → Run workflow
+## Important
 
-This redesign removes the large empty About column, removes weak/broken counters, uses full-width visual cards, and keeps the page GitHub-compatible.
+After pushing, go to:
+
+GitHub → Chaitu381/Chaitu381 → Actions → Generate contribution snake → Run workflow
+
+The snake image becomes available only after that workflow creates the `output` branch.
